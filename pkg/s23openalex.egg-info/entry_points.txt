@@ -1,4 +1,0 @@
-[console_scripts]
-orderA = s23openalex.main:main
-
-
