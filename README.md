@@ -1,4 +1,4 @@
 # pythonProject
 for scientific tool course <br>
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg) <br>
+[![First job](https://github.com/BrianChenCMU/pythonProject/actions/workflows/my-workflow.yaml/badge.svg)](https://github.com/BrianChenCMU/pythonProject/actions/workflows/my-workflow.yaml)
 
